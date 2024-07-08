@@ -9,6 +9,9 @@ A simple, user-friendly desktop application for encrypting, decrypting, and secu
 - Sandbox environment for safe file operations
 - Simple graphical user interface
 
+### Coming
+- stronger unit testing
+
 ## Installation
 
 1. Clone this repository:
